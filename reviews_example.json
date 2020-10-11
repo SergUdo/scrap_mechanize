@@ -1,0 +1,102 @@
+[
+  {
+    "artist": "Freestyle Fellowship",
+    "album": "Innercity Griots",
+    "label": "4th & Broadway",
+    "year": "1993",
+    "reviewer": "Rollie Pemberton",
+    "slug": "RapJazz",
+    "review_date": "2020-10-11 05:00:00 +0000",
+    "score": 9.0
+  },
+  {
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory (20th Anniversary Edition)",
+    "label": "Warner",
+    "year": "2020",
+    "reviewer": "Gabriel Szatan",
+    "slug": "Rock",
+    "review_date": "2020-10-10 05:00:00 +0000",
+    "score": 7.6
+  },
+  {
+    "artist": "Tears for Fears",
+    "album": "The Seeds of Love (Super Deluxe Edition)",
+    "label": "UMEVirgin",
+    "year": "2020",
+    "reviewer": "Alfred Soto",
+    "slug": "Rock",
+    "review_date": "2020-10-10 05:00:00 +0000",
+    "score": 7.2
+  },
+  {
+    "artist": "Sade",
+    "album": "Diamond Life",
+    "label": "Epic",
+    "year": "1984",
+    "reviewer": "Clover Hope",
+    "slug": "Pop/R&B",
+    "review_date": "2020-10-09 05:00:00 +0000",
+    "score": 9.6
+  },
+  {
+    "artist": "Sade",
+    "album": "Promise",
+    "label": "Epic",
+    "year": "1985",
+    "reviewer": "Naima Cochrane",
+    "slug": "Pop/R&B",
+    "review_date": "2020-10-09 05:00:00 +0000",
+    "score": 9.0
+  },
+  {
+    "artist": "Sade",
+    "album": "Lovers Rock",
+    "label": "Epic",
+    "year": "2000",
+    "reviewer": "Rawiya Kameir",
+    "slug": "Pop/R&B",
+    "review_date": "2020-10-09 05:00:00 +0000",
+    "score": 8.7
+  },
+  {
+    "artist": "Sade",
+    "album": "Stronger Than Pride",
+    "label": "Epic",
+    "year": "1998",
+    "reviewer": "Stephen Kearse",
+    "slug": "Pop/R&B",
+    "review_date": "2020-10-09 05:00:00 +0000",
+    "score": 8.2
+  },
+  {
+    "artist": "Shamir",
+    "album": "Shamir",
+    "label": "self-released",
+    "year": "2020",
+    "reviewer": "Eric Torres",
+    "slug": "Pop/R&B",
+    "review_date": "2020-10-08 05:00:00 +0000",
+    "score": 7.5
+  },
+  {
+    "artist": "Ailbhe Reddy",
+    "album": "Personal History",
+    "label": "Friends of the Family",
+    "year": "2020",
+    "reviewer": "Aimee Cliff",
+    "slug": "Folk/Country",
+    "review_date": "2020-10-08 05:00:00 +0000",
+    "score": 6.8
+  },
+  {
+    "artist": "Bobby Bare",
+    "album": "Bobby Bare Sings Shel Silverstein Plus",
+    "label": "Bear Family",
+    "year": "2020",
+    "reviewer": "Stephen Thomas Erlewine",
+    "slug": "Folk/Country",
+    "review_date": "2020-10-08 05:00:00 +0000",
+    "score": 8.2
+  }
+]

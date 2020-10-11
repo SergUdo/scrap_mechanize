@@ -1,6 +1,7 @@
 ## scraper_web_site
 
-Web site parsing:https://pitchfork.com/reviews/albums/
+Web site parsing: https://pitchfork.com/reviews/albums/
+
 Used gem 'mechanize'.
 
 ## launching
