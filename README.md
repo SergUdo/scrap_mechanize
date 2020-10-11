@@ -7,6 +7,6 @@ Used `gem 'mechanize'`.
 ## launching
 
 Clone or download this repo.
-Used in console `ruby scrap_machanize.rb`
+Used in console `ruby scrap_mechanize.rb`
 
 If you want to get the result in `JSON` file format use command in console `ruby scrap_mechanize.rb > reviews.json`
