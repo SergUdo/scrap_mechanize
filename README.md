@@ -2,11 +2,11 @@
 
 Web site parsing: https://pitchfork.com/reviews/albums/
 
-Used gem 'mechanize'.
+Used `gem 'mechanize'`.
 
 ## launching
 
 Clone or download this repo.
 Used in console `ruby scrap_machanize.rb`
 
-If need get result in file format  `JSON` use command in console `ruby scrap_mechanize.rb > reviews.json`
+If you want to get the result in `JSON` file format use command in console `ruby scrap_mechanize.rb > reviews.json`
