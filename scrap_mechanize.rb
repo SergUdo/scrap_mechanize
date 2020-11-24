@@ -14,6 +14,7 @@ end
 
 review_links = review_links[0...10]
 
+
 reviews = review_links.map do |link|
   review = link.click
   artist = review.search('.artist-links').text
